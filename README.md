@@ -25,7 +25,7 @@ An interactive tool that teaches users how prompt design impacts AI outputs, bia
 
 ### 🎣 Phishing Awareness Trainer
 
-🔗 *[(add your Streamlit link here)](https://share.streamlit.io/jenmnolan-ai/cyber-risk-and-awareness/main/phishing_app.py)*
+🔗 https://share.streamlit.io/jenmnolan-ai/cyber-risk-and-awareness/main/phishing_app.py
 
 Interactive security awareness tool where users practice identifying phishing scenarios and receive immediate feedback.
 
