@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Jennifer Nolan
 
-<!--
-**jenmnolan-ai/jenmnolan-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Literacy • GRC • Security Awareness • Learning Design**
 
-Here are some ideas to get you started:
+I translate complex topics like AI, cybersecurity, and human risk into clear, actionable learning experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Project
+
+### 🤖 AI Literacy Prompt Explorer
+
+🔗 https://ai-literacy-prompt-explorer-cdhba95yeweiq7mj8duryh.streamlit.app/
+
+An interactive tool that teaches users how prompt design impacts AI outputs, bias, and fairness.
+
+* Scenario-based AI bias exploration
+* Real-time feedback and prompt improvement
+* Accessibility-first design (Section 508 / WCAG aware)
+* Built with Streamlit + Python
+
+---
+
+## 🧠 What I Do
+
+* Design **learning systems** that drive real behavior change
+* Build **AI literacy & security awareness programs**
+* Apply **GRC + human risk thinking** to training and communication
+* Translate technical risk into **clear, usable guidance**
+
+---
+
+## 🛠️ Current Focus
+
+* CompTIA Security+
+* ISC2 Certified in Cybersecurity (CC)
+* AI governance & human-centered risk
+* Building hands-on portfolio projects
+
+---
+
+## 📂 Portfolio
+
+* 🔐 Cyber Risk & Awareness: https://github.com/jenmnolan-ai/cyber-risk-and-awareness
+* 🤖 AI Literacy Prompt Explorer: https://github.com/jenmnolan-ai/ai-literacy-prompt-explorer
+
+---
+
+## 🤝 Let’s Connect
+
+* LinkedIn: https://www.linkedin.com/in/nolaninspires/
+
+---
+
+## 💡 Philosophy
+
+> “AI should help people see more possibilities, not fewer.”
